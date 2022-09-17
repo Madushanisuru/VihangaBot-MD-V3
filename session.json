@@ -42,7 +42,7 @@
     "nextPreKeyId": 31,
     "firstUnuploadedPreKeyId": 31,
     "serverHasPreKeys": true,
-    "account": {
+    "account": 
       "details": "CJSVnpcDEMXj5pgGGAE=",
       "accountSignatureKey": "8JTYEAuAxlK7+Y09L4bCfFHCCHp1htckGO47ZRH95GI=",
       "accountSignature": "rHH+TVcBr7gT69E03zV9IqFHeaMY0RfOCZIIA3MctBLTMGH3alKzi5vg9ZpR3jhDF8CQA9d36XZHOEkXSpmUBQ==",
@@ -585,9 +585,7 @@
         "timestamp": "0"
       },
       "AAAAAIZ9": {
-        "keyData": "sOZBesksXaaY1y1Dhg5m20ATTGvLS6+77uCu4EjqJB8=",
-        "fingerprint": {
-          "rawId": 854035081,
+        "keyData": "sOZBesksXaaY1y1Dhg5m20ATTGvLS6,
           "currentIndex": 1,
           "deviceIndexes": [
             0,
@@ -609,4 +607,3 @@
       }
     }
   }
-}
